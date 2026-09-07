@@ -20,21 +20,31 @@
     <td>
       <img src="https://shields.io" alt="HTML5" />
       <img src="https://shields.io" alt="CSS3" />
-      <img src="https://shields.io" alt="JavaScript" />
+      <img src="https://shields.io" alt="JS" />
     </td>
   </tr>
   <tr>
     <td align="center"><strong>Back-End</strong></td>
     <td>
       <img src="https://shields.io" alt="Java" />
-      <img src="https://shields.io" alt="NodeJS" />
-      <img src="https://shields.io" alt="ExpressJS" />
+      <img src="https://shields.io" alt="Node" />
+      <img src="https://shields.io" alt="Express" />
     </td>
   </tr>
   <tr>
     <td align="center"><strong>Bancos de Dados</strong></td>
     <td>
       <img src="https://shields.io" alt="MySQL" />
+      <img src="https://shields.io" alt="Postgres" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Infra & Redes</strong></td>
+    <td>
+      <img src="https://shields.io" alt="Redes" />
+    </td>
+  </tr>
+</table>
       <img src="https://shields.io" alt="PostgreSQL" />
     </td>
   </tr>
