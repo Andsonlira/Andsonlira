@@ -14,19 +14,34 @@
   
 ### 🛠️ Competências e Tecnologias
 
-#### 🌐 Front-End
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
-![JavaScript](https://shields.io)
-
-#### ⚙️ Back-End
-![Java](https://shields.io)
-![NodeJS](https://shields.io)
-![Express.js](https://shields.io)
-
-#### 🗄️ Bancos de Dados
-![MySQL](https://shields.io)
-![PostgreSQL](https://shields.io)
-
-#### 🔌 Infraestrutura & Redes
-![Redes](https://shields.io)
+<table>
+  <tr>
+    <td align="center" width="150"><strong>Front-End</strong></td>
+    <td>
+      <img src="https://shields.io" alt="HTML5" />
+      <img src="https://shields.io" alt="CSS3" />
+      <img src="https://shields.io" alt="JavaScript" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Back-End</strong></td>
+    <td>
+      <img src="https://shields.io" alt="Java" />
+      <img src="https://shields.io" alt="NodeJS" />
+      <img src="https://shields.io" alt="ExpressJS" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Bancos de Dados</strong></td>
+    <td>
+      <img src="https://shields.io" alt="MySQL" />
+      <img src="https://shields.io" alt="PostgreSQL" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Infra & Redes</strong></td>
+    <td>
+      <img src="https://shields.io" alt="Redes" />
+    </td>
+  </tr>
+</table>
