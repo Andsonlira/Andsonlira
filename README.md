@@ -11,7 +11,8 @@
 🛠️ Competências e Tecnologias
 * **Infraestrutura & Redes:** Cabeamento estruturado, roteamento, protocolos de comunicação e suporte.
 * **Sistemas:** Administração de sistemas e Bancos de Dados [MySQL, PostegreSQL].
-  
+Revise a estrutura do README.md e adicione selos de tecnologia.
+
 ### 🛠️ Competências e Tecnologias
 
 <table>
@@ -36,16 +37,6 @@
     <td>
       <img src="https://shields.io" alt="MySQL" />
       <img src="https://shields.io" alt="Postgres" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Infra & Redes</strong></td>
-    <td>
-      <img src="https://shields.io" alt="Redes" />
-    </td>
-  </tr>
-</table>
-      <img src="https://shields.io" alt="PostgreSQL" />
     </td>
   </tr>
   <tr>
