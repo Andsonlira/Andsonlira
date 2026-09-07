@@ -11,11 +11,11 @@
 🛠️ Competências e Tecnologias
 * **Infraestrutura & Redes:** Cabeamento estruturado, roteamento, protocolos de comunicação e suporte.
 * **Sistemas:** Administração de sistemas e Bancos de Dados [MySQL, PostegreSQL].
- ###🌐 Front-End
+ ####🌐 Front-End
 ![HTML5](https://shields.io)
 ![CSS3](https://shields.io)
 ![JavaScript](https://shields.io)
- ###⚙️ Back-End
+ ####⚙️ Back-End
 ![Java](https://shields.io)
 ![NodeJS](https://shields.io)
 ![Express.js](https://shields.io)
