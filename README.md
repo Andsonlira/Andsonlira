@@ -11,9 +11,8 @@
 🛠️ Competências e Tecnologias
 * **Infraestrutura & Redes:** Cabeamento estruturado, roteamento, protocolos de comunicação e suporte.
 * **Sistemas:** Administração de sistemas e Bancos de Dados [MySQL, PostegreSQL].
-* 
-
-###🛠️ Competências e Tecnologias
+  
+### 🛠️ Competências e Tecnologias
 
 #### 🌐 Front-End
 ![HTML5](https://shields.io)
